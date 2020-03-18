@@ -2,9 +2,11 @@
 
 ### [Мое резюме(сurriculum vitae):](https://konicaru.github.io/cv/)
 
-[prokol35@gmail.com](prokol35@gmail.com)
+[Связаться со мной](prokol35@gmail.com)
 
-[мой гитхаб](https://github.com/konicaRu)
+[Мои проекты на GitHub](https://github.com/konicaRu/python_study1)
+
+[Мои проекты по алгоритмам на GitHub](https://github.com/konicaRu/algorithm)
 
 13.03.20
 
