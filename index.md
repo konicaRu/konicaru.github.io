@@ -1,10 +1,8 @@
-### [Мое резюме(сurriculum vitae):](https://konicaru.github.io/cv/)
+### Мой блог, я надеюсь это будет путь от нуба в программисты :)
 
-[Связаться со мной](prokol35@gmail.com)
+###### [Мое резюме(сurriculum vitae)](https://konicaru.github.io/cv/)    [Связаться со мной](prokol35@gmail.com)
 
-[Мои проекты на GitHub](https://github.com/konicaRu/python_study1)
-
-[Мои проекты по алгоритмам на GitHub](https://github.com/konicaRu/algorithm)
+[Мои проекты на GitHub](https://github.com/konicaRu/python_study1)      [Мои проекты по алгоритмам на GitHub](https://github.com/konicaRu/algorithm)
 
 # Мой план развития как программиста на 2020 год.
 
