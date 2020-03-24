@@ -4,7 +4,7 @@
 
 [Мои проекты на GitHub](https://github.com/konicaRu/python_study1)      [Мои проекты по алгоритмам на GitHub](https://github.com/konicaRu/algorithm)
 
-# "Стратегии голубого океана"  
+# "Стратегии голубого океана"  Ким Чан и Рене Моборн
 
 > #### прочитал книжку
 
