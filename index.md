@@ -1,6 +1,6 @@
-# Это мой блог, я надеюсь это будет путь от нуба в программисты :)
+# <u>Мой блог, надеюсь это будет путь от нуба в программисты :)</u>
 
-###### [Мое резюме(сurriculum vitae)](https://konicaru.github.io/cv/)    [Связаться со мной](prokol35@gmail.com)
+###### [Мое резюме(сurriculum vitae)](https://konicaru.github.io/cv/)    [Связаться со мной](prokol35@gmail.com)  prokol35@gmail.com
 
 [Мои проекты на GitHub](https://github.com/konicaRu/python_study1)      [Мои проекты по алгоритмам на GitHub](https://github.com/konicaRu/algorithm)
 
@@ -14,11 +14,27 @@
 
 Была поставлена задача изучить выборку из не менее 12 - ти вакансий на сайтах хедхантеров, обобщить  в них общие требования к кандидатам и оценить собственные компетенции в этих требованиях
 
-Это
+Это [ссылка](https://docs.google.com/document/d/1y-6orAs1SfIzFArAHDbZMreaqf0dLKTMwwH07RmQVUs/edit?usp=sharing)   на выборку вакансий на Google Docs, так как вакансии могут менять , удаляться я не стал их постить здесь.
 
-[ссылка]: https://docs.google.com/document/d/1y-6orAs1SfIzFArAHDbZMreaqf0dLKTMwwH07RmQVUs/edit?usp=sharing
+Итак было проанализированно 14 вакансий в городе Москве.
 
-  на выборку вакансий на Google Docs, так как вакансии могут менять , удаляться я не стал их постить здесь.
+Наиболее часто в требованиях встречались:
+
+- Навыки программирования на Python - 14 раз
+
+- Опыт работы с SQL - 7 раз
+
+- Навыки программирования на JAVA - 4 раза
+
+- Навыки программирования на С++ - 3 раза
+
+- Навыки программирования на R - 3 раза
+
+- Знание Linux - 2 раза
+
+- Понятие о Version Control Systems (Git, SVN) - 2 раза
+
+  
 
 ------
 
