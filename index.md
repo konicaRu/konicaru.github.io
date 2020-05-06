@@ -18,9 +18,9 @@
 
 Погуглил информацию в помощь , не сказал бы что ее много, в отличие скажем от курсов того же Python. Но кое что есть, понять сам принцип работы помогли разборы на [youtube](https://www.youtube.com/watch?v=kLY0O_me8-s&list=PLfAlku7WMht4Vm6ewLgdP9Ou8SCk4Zhar&index=5) и сайт [younglinux](https://younglinux.info/tkinter.php) , дальше оставалось только стараться чтобы мои задумки можно было бы выполнить теми знаниями до которых я мог на данный момент дотянуться. Ньюансов довольно много и хотя принцип казалось бы понятен, достичь желаемого результата получилось отнюдь не сразу, да вообщем-то не везде его получилось вообще достичь :)))  Оказалось что визуальное представление программ не такой простой процесс......[здесь результат](https://raw.githubusercontent.com/konicaRu/Tkinter/master/Tkinter1.py) в коде которого достичь удалось :))
 
+![1](https://github.com/konicaRu/Tkinter/blob/master/first_app.JPG?raw=true)
 
 
-![C:\Users\User\git\Tkinter\first_app.JPG](C:\Users\User\git\Tkinter\first_app.JPG)
 
 пока всё.
 
