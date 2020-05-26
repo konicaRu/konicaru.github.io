@@ -20,9 +20,7 @@
 
 Это как выглядит на экране.....
 
-![1](https://github.com/konicaRu/Tkinter/blob/master/first_app500.jpg?raw=true)
-
-
+![](https://raw.githubusercontent.com/konicaRu/Tkinter/master/gif_tkinter_first_example.gif)
 
 пока всё.
 
