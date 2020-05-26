@@ -1,10 +1,90 @@
-# <u>Меня зовут Дмитрий, это мой блог, надеюсь это будет описание пути от нуба в программисты :)</u>
+> # <u>Меня зовут Дмитрий, это мой блог, надеюсь это будет описание пути от нуба в программисты :)</u>
+>
 
 ###### [Мое резюме(сurriculum vitae)](https://konicaru.github.io/cv/)    [Связаться со мной](prokol35@gmail.com)  prokol35@gmail.com
 
 [Мои проекты на GitHub](https://github.com/konicaRu/python_study1)      [Мои проекты по алгоритмам на GitHub](https://github.com/konicaRu/algorithm)
 
 ------
+
+### Небольшой pet-проект для GitHub с UI Round-Robin с графическим интерфейсом
+
+26.05.20
+
+> #### закрепляем полученные знания по пакету Tkinter 
+
+Так как прошлый проект был совсем простенький я решил закрепить полученные знания на чем то более серьезном.
+
+Техническое задание выглядело [так](https://github.com/konicaRu/Tkinter/blob/master/specific_round_robin.pdf), весь реализацию проекта хотелось построить на принципах ООП и с правильным именованием переменных, классов и методов в коде, с ООП получилось не все , но главное понял принцип передачи данных из класса в класс, а также использование методов и переменных в классе из других классов. С начала это не получалось, поэтому class WindowUnit(): получился явно перегруженный методами, но потом погуглил, обкатал передачу данных в другие классы на примерах и дело пошло.
+
+Понравилось реализовывать  <!--метод B, который перераспределяет задачи: все первые задачи каждого исполнителя переходят к следующему исполнителю (помещаются в начало списка задач). Задача последнего исполнителя переходит к первому исполнителю. Остальные задачи не трогаются.--> 
+
+```python
+def change_task():  # меняем в списке list_unit_and_task первые задачи местами
+    count_task = 1
+    count_key = 0
+    arr_keep_keys = []
+    for key in list_unit_and_task:
+        arr_keep_keys.append(key)
+
+    first_task = list_unit_and_task[arr_keep_keys[count_key]][0]
+    list_unit_and_task[arr_keep_keys[count_key]].pop(0)
+    for key in list_unit_and_task:
+        if count_task == len(list_unit_and_task):
+            if list_unit_and_task[key] == []:
+                list_unit_and_task[key].append(first_task)
+            else:
+                list_unit_and_task[key][0] = first_task
+            break
+        if list_unit_and_task[key] == []:
+            list_unit_and_task[key].append(list_unit_and_task[arr_keep_keys[count_task]][0])
+            count_task += 1
+            continue
+        list_unit_and_task[key][0] = list_unit_and_task[arr_keep_keys[count_task]][0]
+        list_unit_and_task[arr_keep_keys[count_task]].pop(0)
+        count_task += 1
+    return list_unit_and_task
+list_unit_and_task = ({'Вася 15': ['1 Вешаем   43', 'Пашем   117', 'Курим   50'], 'Петя   18': ['2 Повешаем   43', 'Лудим   17', 'Паяем   119'],
+                     'Оля 10': ['3 Пошьем   43', 'Шьем   17', 'Вешаем   19']})
+
+print(change_task())
+```
+
+Неоценимую помощь в освоении Tkinter оказал [Youtube канал](https://www.youtube.com/playlist?list=PLfAlku7WMht4Vm6ewLgdP9Ou8SCk4Zhar) WeBest
+
+Возникла проблема с передачей данных из вкладки Setting, ни в какую не хотел работать метод get, вроде код написан правильно, но данные из поля Entry получить не удается, был задан вопрос на [форуме](https://python.su/forum/topic/39008/) Оказалось нужно выделять метод  grid в этом случае в отдельную строку:
+
+```
+self.entry_timer_trigger = Entry(self.window_open, width=8, font=15).grid(row=0, column=1) 
+```
+
+то есть так:
+
+```
+self.entry_timer_trigger = Entry(self.window_open, width=8, font=15)
+```
+
+```
+ self.entry_timer_trigger.grid(row=0, column=1)
+```
+
+В этом проекте впервые реализовывал таймер, тоже пошло не с первого раз, так как данные по умолчанию функция принимала, а данные введенные из программы нет, после долгих размышлений и переписывания кода, дошло что так как функция рекурсивная и вызывает сама себя соответственно и переменную она каждый раз подставляет свою. Решил проблему с помощью глобальной переменной и разбиения функции 
+
+```
+def timer(self):
+```
+
+на три части, все заработало.
+
+[Итог здесь](https://raw.githubusercontent.com/konicaRu/Tkinter/master/Round_robin_REZERV1.py): думаю получен неоценимый опыт, реализовывать данный проект было интересно.
+
+
+
+![](https://raw.githubusercontent.com/konicaRu/Tkinter/master/gif_raund_robin.gif)
+
+
+
+
 
 ### Как я осваивал азы создания графического интерфейса пользователя, средствами пакета Tkinter 
 
