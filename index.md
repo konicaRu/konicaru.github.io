@@ -66,9 +66,9 @@ for keys in self.arr_unit:
 # формируем отдельный словарь для отображения в программе  исполнитель и первая завдача в списке
 ```
 
-Хочу отметить помощь в освоении Tkinter оказал [Youtube канал](https://www.youtube.com/playlist?list=PLfAlku7WMht4Vm6ewLgdP9Ou8SCk4Zhar) WeBest
+Хочу отметить: неплохую помощь в освоении Tkinter оказал [Youtube канал](https://www.youtube.com/playlist?list=PLfAlku7WMht4Vm6ewLgdP9Ou8SCk4Zhar) WeBest
 
-Возникла проблема с передачей данных из вкладки Setting, ни в какую не хотел работать метод get, вроде код написан правильно, но данные из поля Entry получить не удается, был задан вопрос на [форуме](https://python.su/forum/topic/39008/) Оказалось нужно выделять метод  grid в этом случае в отдельную строку:
+В процессе возникла проблема с передачей данных из вкладки Setting, ни в какую не хотел работать метод get, вроде код написан правильно, но данные из поля Entry получить не удается, был задан вопрос на [форуме](https://python.su/forum/topic/39008/) Оказалось нужно выделять метод  grid в этом случае в отдельную строку:
 
 так неправильно:
 
@@ -92,7 +92,7 @@ self.entry_timer_trigger = Entry(self.window_open, width=8, font=15)
 def timer(self):
 ```
 
-на три части, все заработало.
+на три части и все заработало.
 
 [Итог здесь](https://raw.githubusercontent.com/konicaRu/Tkinter/master/Round_robin_REZERV1.py): думаю получен неоценимый опыт, реализовывать данный проект было интересно.
 
