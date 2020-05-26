@@ -100,6 +100,8 @@ def timer(self):
 
 ![](https://raw.githubusercontent.com/konicaRu/Tkinter/master/gif_raund_robin.gif)
 
+![setting](https://raw.githubusercontent.com/konicaRu/Tkinter/master/setting_gif.gif)
+
 
 
 пока всё ...
