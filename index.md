@@ -56,7 +56,17 @@ list_unit_and_task = ({'Вася 15': ['1 Вешаем   43', 'Пашем   117'
 print(change_task())
 ```
 
-Неоценимую помощь в освоении Tkinter оказал [Youtube канал](https://www.youtube.com/playlist?list=PLfAlku7WMht4Vm6ewLgdP9Ou8SCk4Zhar) WeBest
+Также в [64 строке](https://github.com/konicaRu/Tkinter/blob/master/Round_robin_REZERV1.py) интересный генератор списков в словаре получился :
+
+```
+shift = 0
+for keys in self.arr_unit:  
+    self.list_unit_and_task[keys] = [self.task.arr_task[val] for val in range(shift,len(self.task.arr_task), len(self.arr_unit))]  # генератор списков в словаре
+    shift += 1
+# формируем отдельный словарь для отображения в программе  исполнитель и первая завдача в списке
+```
+
+Хочу отметить помощь в освоении Tkinter оказал [Youtube канал](https://www.youtube.com/playlist?list=PLfAlku7WMht4Vm6ewLgdP9Ou8SCk4Zhar) WeBest
 
 Возникла проблема с передачей данных из вкладки Setting, ни в какую не хотел работать метод get, вроде код написан правильно, но данные из поля Entry получить не удается, был задан вопрос на [форуме](https://python.su/forum/topic/39008/) Оказалось нужно выделять метод  grid в этом случае в отдельную строку:
 
