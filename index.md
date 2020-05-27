@@ -1,7 +1,11 @@
 > # <u>Меня зовут Дмитрий, это мой блог, надеюсь это будет описание пути от нуба в программисты :)</u>
 >
 
-###### [Мое резюме(сurriculum vitae)](https://konicaru.github.io/cv/)    [Связаться со мной](prokol35@gmail.com)  prokol35@gmail.com
+###### [Мое резюме(сurriculum vitae)](https://konicaru.github.io/cv/)
+
+###### [Моё резюме на hh.ru](https://hh.ru/resume/6766117bff07ea9c0d0039ed1f626779763145)  
+
+###### [Связаться со мной](prokol35@gmail.com)  prokol35@gmail.com
 
 [Мои проекты на GitHub](https://github.com/konicaRu/python_study1)      [Мои проекты по алгоритмам на GitHub](https://github.com/konicaRu/algorithm)
 
