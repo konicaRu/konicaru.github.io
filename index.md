@@ -15,6 +15,8 @@
 
 **[Мои проекты по алгоритмам на GitHub](https://github.com/konicaRu/algorithm)**
 
+**[Мой Linkedin](https://www.linkedin.com/in/dimkochetov/)**
+
 ------
 
 ### Книга "Медитация и осознанность. 10 минут в день, которые приведут ваши мысли в порядок " Энди Паддикомб
