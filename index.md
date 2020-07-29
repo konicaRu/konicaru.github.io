@@ -3,7 +3,7 @@
 
 |[Mоё резюме на hh.ru](https://hh.ru/resume/6766117bff07ea9c0d0039ed1f626779763145#key-skills)|[Моё CV (сurriculum vitae)](https://konicaru.github.io/cv/)|Связаться со мной: [prokol35@gmail.com](prokol35@gmail.com)|
 
-|[Мой блог](https://konicaru.github.io/)|[Мой GitHub](https://github.com/konicaRu)|[Мой Linkedin](https://www.linkedin.com/in/dimkochetov/)|[Мой Facebook](https://www.facebook.com/konica1970)|[Телеграмм](https://t.me/konica1970)|
+|[Мой GitHub](https://github.com/konicaRu)|[Мой Linkedin](https://www.linkedin.com/in/dimkochetov/)|[Мой Facebook](https://www.facebook.com/konica1970)|[Телеграмм](https://t.me/konica1970)|
 
 ------
 
