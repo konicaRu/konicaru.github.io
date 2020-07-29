@@ -887,6 +887,11 @@ def timer(self):
 
 На данный момент план зайти на работу стажером или джуном и за год вырасти до мидла.
 
+<<<<<<< HEAD
+=======
+![](https://raw.githubusercontent.com/konicaRu/konicaru.github.io/master/pictures/Logo_Kochetov_cv.jpg)
+
+>>>>>>> d62edac00d80cc4108cea1368d10195f0654685a
 **Продолжение следует...................**
 
 ![](https://raw.githubusercontent.com/konicaRu/konicaru.github.io/master/pictures/Logo_Kochetov_cv.jpg)
