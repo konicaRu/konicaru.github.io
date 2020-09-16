@@ -1,9 +1,9 @@
 > # Меня зовут Дмитрий, это мой блог, надеюсь это будет описание пути от нуба в программисты :)
 >
 
-|[Mоё резюме на hh.ru](https://hh.ru/resume/6766117bff07ea9c0d0039ed1f626779763145#key-skills)|[Моё CV (сurriculum vitae)](https://konicaru.github.io/cv/)|Связаться со мной: [prokol35@gmail.com](prokol35@gmail.com)|
+|[**Mоё резюме на hh.ru**](https://hh.ru/resume/6766117bff07ea9c0d0039ed1f626779763145#key-skills)|[**Моё CV (сurriculum vitae)**](https://konicaru.github.io/cv/)|Связаться со мной: [**prokol35@gmail.com**](prokol35@gmail.com)|
 
-|[Мой GitHub](https://github.com/konicaRu)|[Мой Linkedin](https://www.linkedin.com/in/dimkochetov/)|[Мой Facebook](https://www.facebook.com/konica1970)|[Телеграмм](https://t.me/konica1970)|
+|[**Мой GitHub**](https://github.com/konicaRu)|[**Мой Linkedin**](https://www.linkedin.com/in/dimkochetov/)|[**Мой Facebook**](https://www.facebook.com/konica1970)|[**Телеграмм**](https://t.me/konica1970)|
 
 ------
 
@@ -30,8 +30,6 @@
 Вы реально пишете микропрограммы сервер их проверяет в автоматическом режиме, если все верно идете дальше если нет, долбите до победного , ну или идете в саппорт за помощью :). Такой принцип обучения мне понравился. 
 
 Перед этим я договорился пройти пробный курс по нейронным сетям в [SkillFactory](https://skillfactory.ru) За пять тысяч рублей, которые вам потом вернут если вам курс не понравился я получил недельный доступ. Вот у них процесс обучения мне не зашел, вроде и видео с преподавателями у них, но закрепление материала кое где из раздела "выбери правильный ответ из трех вариантов". А где то прям резко перескакивает на сложную тему и возникает ощущение что ты что то пропустил, чего то тебе не договорили, в общем отказался я от них и попросил вернуть деньги, деньги вернули без проблем.  Далее 
-
-
 
 ![](https://raw.githubusercontent.com/konicaRu/pictures_blog/master/Logo_Kochetov8.jpg)
 
