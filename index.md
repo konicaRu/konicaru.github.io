@@ -35,6 +35,8 @@
 
 ![](https://raw.githubusercontent.com/konicaRu/pictures_blog/master/Logo_Kochetov8.jpg)
 
+------
+
 ## Как я выбирал курсы программистов.
 
 08.09.20
