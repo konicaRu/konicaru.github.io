@@ -11,7 +11,7 @@
 
 02.12.20
 
-![](https://raw.githubusercontent.com/konicaRu/pictures_blog/master/vargan200.jpg)
+![](https://raw.githubusercontent.com/konicaRu/pictures_blog/master/SPIN_sale_book.jpg)
 
 > ###  прочитал  
 
