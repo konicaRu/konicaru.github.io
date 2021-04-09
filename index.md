@@ -37,9 +37,11 @@
 
 ![](https://raw.githubusercontent.com/konicaRu/pictures_blog/master/googl_tab4.jpg)
 
-и получаем вот такой результат, довольно интересно :)) по ссылке [рабочая версия](https://public.tableau.com/profile/dim6669#!/vizhome/shared/Q78KDRD83).
+и получаем вот такой результат, довольно интересно :)) по ссылке [рабочая версия](https://public.tableau.com/profile/dim6669#!/vizhome/shared/Q78KDRD83). 
 
 ![](https://raw.githubusercontent.com/konicaRu/pictures_blog/master/googl_tab5.jpg)
+
+источник [тут](https://youtu.be/2R3dXARPH10)
 
 ![](https://raw.githubusercontent.com/konicaRu/pictures_blog/master/Logo_Kochetov8.jpg)
 
