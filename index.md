@@ -7,6 +7,42 @@
 
 ------
 
+## Большой брат следит за тобой
+
+### визуализация данных о себе в Tableau .
+
+15.03.21
+
+![](https://raw.githubusercontent.com/konicaRu/pictures_blog/master/googl_tab1.jpg)
+
+> ###  отчет
+
+Я конечно предполагал что мои перемещения можно отследить если подключится к телефону или по перемещению между базовыми станциями по регистрации в мобильной сети. Но вот убей не знал что все перемещения телефон накапливает прям в аккаунте гугла с координатами со временем с момента как вы его завели. Гугл конечно пишет что дело это сугубо добровольное и вы можете отслеживание отключить в `истории местоположений`, но вы же этого не делаете, да кто обращает внимание на такие мелочи:)) Но раз есть данные значит их можно визуализировать и я решил попробовать визуализировать свои перемещения в Tableau.
+
+Все открытые данные которые гугл собирает о вас он хранит в [*Google Архиваторе*](https://takeout.google.com/) . в файле формата `.json`
+
+![](https://raw.githubusercontent.com/konicaRu/pictures_blog/master/googl_tab.jpg)
+
+вот так он выглядит как видно все данные тут как на ладони и перемещение и время и точность, высота, скорость, всё как на духу в общем выложил :))
+
+![](https://raw.githubusercontent.com/konicaRu/pictures_blog/master/googl_tab2.jpg)
+
+Можно загружать в Tableau, но нужно немного поправить формат координат и времени...и да, Tableau файлы `.json`больше 128 мб не воспринимает поэтому нужно его подрезать например в блокноте.
+
+пересчитываем координаты
+
+![](https://raw.githubusercontent.com/konicaRu/pictures_blog/master/googl_tab3.jpg)
+
+время
+
+![](https://raw.githubusercontent.com/konicaRu/pictures_blog/master/googl_tab4.jpg)
+
+и получаем вот такой результат, довольно интересно :)) по ссылке [рабочая версия](https://public.tableau.com/profile/dim6669#!/vizhome/shared/Q78KDRD83).
+
+![](https://raw.githubusercontent.com/konicaRu/pictures_blog/master/googl_tab5.jpg)
+
+![](https://raw.githubusercontent.com/konicaRu/pictures_blog/master/Logo_Kochetov8.jpg)
+
 ## Отчет о обучении на курсе Аналитик данных.
 
 06.02.21
