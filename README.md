@@ -5,7 +5,8 @@
 
 |[Мой блог](https://konicaru.github.io/)|[Мой GitHub](https://github.com/konicaRu)|[Мой Linkedin](https://www.linkedin.com/in/dimkochetov/)|[Мой Facebook](https://www.facebook.com/konica1970)|[Телеграмм](https://t.me/konica1970)|
 
-## Огонь текст о тот каким должно быть IT.
+
+## Огонь текст о том каким должно быть IT.
 
 16.03.23
 
