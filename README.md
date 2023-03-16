@@ -9,8 +9,6 @@
 
 16.03.23
 
-![](https://raw.githubusercontent.com/konicaRu/pictures_blog/master/anal_logo_yn_logo_prof.jpg)
-
 > ###  [Фил Ранжин](https://twitter.com/fillpackart)
 
 Айти пузырь лопнет — и слава богу!
