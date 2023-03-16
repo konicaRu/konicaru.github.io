@@ -51,7 +51,6 @@
 ![](https://raw.githubusercontent.com/konicaRu/pictures_blog/master/Logo_Kochetov8.jpg)
 
 ------
-------
 
 ## Отчет о обучении на курсе Аналитик данных.
 
