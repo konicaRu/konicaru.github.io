@@ -2,7 +2,7 @@
 >
 
 |[Mоё резюме на hh.ru](https://vologda.hh.ru/resume/ff6aba3fff0857b2030039ed1f4b55414b6166)|Связаться со мной: [dimkochetow@gmail.com](dimkochetow@gmail.com)|
-
+|------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
 |[Мой блог](https://konicaru.github.io/)|[Мой GitHub](https://github.com/konicaRu)|[Мой Linkedin](https://www.linkedin.com/in/dimkochetov/)|[Мой Facebook](https://www.facebook.com/konica1970)|[Телеграмм](https://t.me/konica1970)|
 
 
