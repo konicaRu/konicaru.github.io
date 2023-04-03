@@ -8,7 +8,9 @@
 
 <br/> 
 <br/> 
+
 ![](https://raw.githubusercontent.com/konicaRu/pictures_blog/master/Default_a_boss_dressed_as_a_pirate_with_a_parrot_on_his_should_0_d952e712-c894-4fdd-b57d-6d7b6f3da4bd_1.jpg)
+
 > ### Делегирование полномочий: новые возможности для всех участников!
 03.04.23
 
