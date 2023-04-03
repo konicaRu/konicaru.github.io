@@ -7,6 +7,7 @@
 |[Мой Linkedin](https://www.linkedin.com/in/dimkochetov/)         |[Мой Facebook](https://www.facebook.com/konica1970)|[Телеграмм](https://t.me/konica1970)  |
 <br/> 
 <br/> 
+
 > ### Делегирование полномочий: новые возможности для всех участников!
 03.04.23
 
