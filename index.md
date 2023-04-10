@@ -9,6 +9,8 @@
 <br/> 
 <br/> 
 
+![](https://github.com/konicaRu/pictures_blog/blob/master/it_change_humans.jpg?raw=true)
+
 > ### Лишат ли нейросети работы работников It?
 10.04.23
 
