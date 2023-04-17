@@ -11,7 +11,7 @@
 <br/> 
 <br/> 
 
-![](https://github.com/konicaRu/pictures_blog/blob/master/it_change_humans.jpg?raw=true)
+![](https://github.com/konicaRu/pictures_blog/blob/master/leonardo.ai%20-%20error.jpg?raw=true)
 
 > ### Ошибка выжившего, или что раньше трава была зеленее.......
 17.04.23
