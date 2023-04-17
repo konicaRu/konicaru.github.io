@@ -3,7 +3,7 @@
 
 ## Связаться со мной:
 
-|[dimkochetow@gmail.com](dimkochetow@gmail.com)|[Mоё резюме на hh.ru](https://vologda.hh.ru/resume/ff6aba3fff0857b2030039ed1f4b55414b6166)|[WhatsApp +79643046505]|
+|[dimkochetow@gmail.com](dimkochetow@gmail.com)|[Mоё резюме на hh.ru](https://vologda.hh.ru/resume/ff6aba3fff0857b2030039ed1f4b55414b6166)|WhatsApp +79643046505|
 |----------------------------------------------|---------------------------------------------------------------------|----------------------------------------|
 |[Мой GitHub](https://github.com/konicaRu)          |[Телеграм](https://t.me/konica1970)                        |[Моё CV](https://konicaru.github.io/cv/)|
 |[Мой Linkedin](https://www.linkedin.com/in/dimkochetov/)         |[Мой Facebook](https://www.facebook.com/konica1970)                                 |
