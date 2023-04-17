@@ -7,7 +7,7 @@
 |-----------------------------------------------------------------|------------------------------------------------------------------------------------------|
 |[Мой GitHub](https://github.com/konicaRu)                        |[Телеграм](https://t.me/konica1970)                                                |
 |[Мой Linkedin](https://www.linkedin.com/in/dimkochetov/)         |[Мой Facebook](https://www.facebook.com/konica1970)                                 |
-|[Моё CV](https://konicaru.github.io/cv/)|
+|WhatsUp +79643046505|[Моё CV](https://konicaru.github.io/cv/)
 <br/> 
 <br/> 
 
