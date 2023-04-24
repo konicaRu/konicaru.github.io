@@ -12,7 +12,7 @@
 <br/> 
 
 
-![](https://github.com/konicaRu/pictures_blog/blob/0e429b475dbbf2a36565a79da6c1df0c19d5d2d3/Doing%20something%20for%20money%20is%20not%20bad.jpg)
+![](https://raw.githubusercontent.com/konicaRu/pictures_blog/master/2Doing%20something%20for%20money%20is%20not%20bad.jpg)
 
 > ### Избавляемся от болезни: Делать что-то ради денег плохо
 24.04.23
